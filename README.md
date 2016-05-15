@@ -433,4 +433,4 @@ Bear in mind that this is largely a one-man, outside-of-working-hours effort at 
 - But some form might come eventually!
 
 ## Why do you use PyCurl and not requests?
-- Maybe eventually.  PyRestTest needs the low-level features of PyCurl for benchmarking, and benefits from its performance.  However we may eventually abstract some of the core testing features away to allow for pure-python execution
+- Maybe eventually.  PyRestTest needs the low-level features of PyCurl for benchmarking, and benefits from its performance.  However we may eventually abstract some of the core testing features away to allow for pure-python execution.
